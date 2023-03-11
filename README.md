@@ -19,3 +19,5 @@ A V2Ray client for Windows, support [Xray core](https://github.com/XTLS/Xray-cor
 
 ### Telegram Channel
 [github_2dust](https://t.me/github_2dust)
+搬运自https://github.com/2dust/v2rayN
+感谢大佬的分享！
